@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+
+.input-info {
+	display: inline-block;
+	background:#feb386;
+	padding: 5px;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px
+}
+
+.first-name {
+	display: inline-block;
+}
+
+.second-name {
+	display: inline-block;
+}
+
+.date {
+	display: inline-block;
+}
+
+.all {
+	text-align: center;
+	font-family: 'Ubuntu Condensed', sans-serif;
+	width:60%;
+	margin:auto;
+}
+
+.all input {
+   margin: 4px;
+}
+
+
+.movie {
+	padding:5px;
+	border: 0.5px solid #feb386;
+	background:#feb386;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	margin-top: 5px;
+	display: inline-block;
+}	
+
+.a-container {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	text-align:center;
+	padding-top:1%;
+	padding-bottom:1%;
+}
+
+.a-container a{
+	padding:5px;
+	text-decoration: none;
+	color: black;
+	background-color: #d6d6c2;
+}
+.a-container a:hover{
+	background-color: #feb386;
+}
+

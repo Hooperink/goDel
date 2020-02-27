@@ -1,0 +1,23 @@
+.all-container {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	text-align: center;
+}
+.label {
+    margin-top:10%;
+}
+.a-container {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	text-align:center;
+	padding-top:1%;
+	padding-bottom:1%;
+}
+
+.a-container a{
+	padding:5px;
+	text-decoration: none;
+	color: black;
+	background-color: #d6d6c2;
+}
+.a-container a:hover{
+	background-color: #feb386;
+}
