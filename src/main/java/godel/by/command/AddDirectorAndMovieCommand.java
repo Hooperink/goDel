@@ -32,6 +32,6 @@ public class AddDirectorAndMovieCommand implements Command {
         } else {
             directorService.save(firstName,secondName,birthDate);
         }
-        return CommandResult.redirect("?command=showSuccessPage");
+        return CommandResult.redirect("/movie?command=showSuccessPage");
     }
 }
